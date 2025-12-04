@@ -1,12 +1,14 @@
-## Hi there 👋
+## Hi, Nilesh Here 👋
+
+#### Currently learning Web Development 2.0
+- 🔭 Focusing on building strong skill set for present and future building
+- 🎯 Towards Full Stack Web2, Web3, DevOps, Syetem Desighn, Technilcal Writing
+- 🤖 Core Technology: JavaScript(learning), TypeScript, MERN, RUST, Linux OS, Shell Script
 
 <!--
 **nilsyntax/nilsyntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+Here are some ideas to get you started: 
+- 🔭 I’m currentlyworking on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
