@@ -2,7 +2,7 @@
 
 #### Currently learning Web Development 2.0
 - 🔭 Focusing on building strong skill set for present and future building
-- 🎯 Towards Full Stack Web2, Web3, DevOps, Syetem Desighn, Technilcal Writing
+- 🎯 Towards Full Stack Web2(currently), Web3, DevOps, Syetem Desighn, Technilcal Writing
 - 🤖 Core Technology: JavaScript(learning), TypeScript, MERN, RUST, Linux OS, Shell Script
 
 <!--
