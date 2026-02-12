@@ -1,5 +1,5 @@
 ## Nilesh Here 😑
-~~Self-thought~~ Independent Student on Tech and Development, who gone crezy & beted his life on this subject lately.
+Learning SWD, and I'm gone crezy & beted my life on this subject lately.
 
 #### Currently learning Web Development(2.0)
 - 🔭 Focusing to building a profound skill-set in SOFTWARE DEVELOPMENT AND T-E-C-H-N-O-L-G-Y.
