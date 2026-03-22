@@ -1,10 +1,10 @@
 ## Nilesh Here 😑
 Learning SWD, and I'm gone crezy & beted my life on this subject lately.
 
-#### Currently learning Web Development(2.0)
-- 🔭 Focusing to building a profound skill-set in SOFTWARE DEVELOPMENT AND T-E-C-H-N-O-L-G-Y.
-- 🎯 Towards Full Stack Web Dev/Backend Engineer, also interested in Web3, System Design and Thinking.
-- 🤖 My Technology Interest: JavaScript(learning), MERN, PostgreSQL, NextJS, GoLang, Rust and Linux Environment.
+#### Learning in progress towards Web Development, Backend and Design
+- 🔭 Focusing to building a profound skill-set in SOFTWARE DEVELOPMENT
+- 🎯 Aiming towards Full Stack Web Dev/Backend Engineer, also interested in Web3, System Design and Thinking.
+- 🤖 JavaScript(learning), MERN, PostgreSQL, NextJS, GoLang, Rust and Linux Command Line.
 
 <!--
 **nilsyntax/nilsyntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
